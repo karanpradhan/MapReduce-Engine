@@ -1,0 +1,622 @@
+08 16:45:49,970 0    [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+08 16:45:49,973 0    [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+08 16:45:50,286 316  [628834558@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+08 16:45:50,306 336  [628834558@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+08 16:45:50,311 338  [1115600610@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+08 16:45:50,325 352  [1115600610@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+08 16:45:50,339 366  [1677842826@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+08 16:45:50,339 366  [1677842826@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+08 16:45:50,371 401  [628834558@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+08 16:45:50,371 401  [628834558@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+08 16:50:00,801 0    [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+08 16:50:00,804 0    [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+08 16:50:00,927 126  [1090032292@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+08 16:50:00,928 124  [563848768@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+08 16:50:00,932 131  [1090032292@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+08 16:50:00,950 146  [563848768@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+08 16:50:00,963 162  [1090032292@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+08 16:50:00,963 162  [1090032292@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+08 16:50:00,966 162  [563848768@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+08 16:50:00,966 162  [563848768@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+08 16:50:01,171 370  [1090032292@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+08 16:50:01,189 385  [563848768@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+08 16:50:01,189 388  [1090032292@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+08 16:50:01,201 397  [563848768@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+08 18:54:43,708 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+08 18:54:45,931 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+08 18:55:02,755 16824 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+08 18:55:02,757 19049 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+08 18:55:02,907 19199 [590996305@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+08 18:55:02,909 19201 [590996305@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+08 18:55:02,920 16989 [956951190@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+08 18:55:02,921 16990 [956951190@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+08 18:55:03,050 19342 [590996305@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+08 18:55:03,075 19367 [590996305@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+08 18:55:03,077 19369 [590996305@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+08 18:55:03,077 17146 [956951190@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+08 18:55:03,086 17155 [956951190@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+08 18:55:03,089 17158 [956951190@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+08 18:55:03,100 17169 [956951190@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+08 18:55:03,101 17170 [956951190@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+08 18:55:03,108 19400 [590996305@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+08 18:55:03,109 19401 [590996305@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 01:32:35,679 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 01:33:08,854 33175 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 01:33:08,940 33261 [1409073314@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 01:33:08,940 33261 [1409073314@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 01:33:08,942 33263 [1409073314@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 01:33:08,947 33268 [1408732008@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 01:33:08,948 33269 [1408732008@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 03:03:30,458 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 03:03:32,462 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 03:05:53,372 142914 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 03:05:53,372 140910 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 03:06:03,429 152971 [1090032292@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 03:06:03,430 152972 [1090032292@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 03:06:03,443 150981 [1562645223@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 03:06:03,443 150981 [1562645223@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 03:06:48,403 197945 [1090032292@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 03:06:48,405 197947 [1090032292@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 03:06:48,406 195944 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 03:06:48,406 195944 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 03:06:48,408 197950 [1090032292@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 03:06:48,408 195946 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 03:06:48,426 195964 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 03:06:48,427 195965 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 03:06:48,427 197969 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 03:06:48,429 197971 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 03:11:24,918 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 03:11:26,950 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 03:11:47,553 22635 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 03:11:47,567 20617 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 03:12:02,574 35624 [432359019@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 03:12:02,575 35625 [432359019@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 03:12:02,576 37658 [263851830@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 03:12:02,577 37659 [263851830@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 03:13:02,628 95678 [1240775927@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 03:13:02,631 95681 [1240775927@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 03:13:02,632 97714 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 03:13:02,633 97715 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 03:13:02,635 97717 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 03:13:02,634 95684 [1240775927@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 03:13:02,648 97730 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 03:13:02,650 97732 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 03:13:02,650 95700 [1240775927@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 03:13:02,654 95704 [1240775927@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 03:24:43,845 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 03:24:45,690 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 03:25:04,635 18945 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 03:25:04,638 20793 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 03:25:19,666 35821 [904935057@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 03:25:19,667 35822 [904935057@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 03:25:19,671 33981 [779185335@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 03:25:19,671 33981 [779185335@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 03:26:19,686 95841 [1763929301@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 03:26:19,689 95844 [1763929301@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 03:26:19,690 94000 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 03:26:19,691 94001 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 03:26:19,693 94003 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 03:26:19,691 95846 [1763929301@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 03:26:19,707 94017 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 03:26:19,709 94019 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 03:26:19,709 95864 [1763929301@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 03:26:19,711 95866 [1763929301@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 03:28:24,062 218372 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 03:28:24,063 220218 [1763929301@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 03:28:34,122 230277 [1595847065@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 03:28:34,123 230278 [1595847065@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 03:28:34,125 228435 [1409826334@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 03:28:34,125 228435 [1409826334@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 03:29:19,092 275247 [1595847065@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 03:29:19,094 275249 [1595847065@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 03:29:19,095 273405 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 03:29:19,096 273406 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 03:29:19,097 275252 [1595847065@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 03:29:19,098 273408 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 03:29:19,115 273425 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 03:29:19,116 275271 [1595847065@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 03:29:19,117 273427 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 03:29:19,119 275274 [1595847065@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 14:53:31,092 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 14:53:32,981 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 14:54:03,804 32712 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 14:54:03,807 30826 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 14:54:18,854 45873 [648734830@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 14:54:18,854 45873 [648734830@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 14:54:18,856 47764 [1274367071@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 14:54:18,856 47764 [1274367071@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 14:55:18,882 105901 [1755350607@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 14:55:18,884 105903 [1755350607@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 14:55:18,886 107794 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 14:55:18,886 105905 [1755350607@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 14:55:18,887 107795 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 14:55:18,889 107797 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 14:55:18,900 107808 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 14:55:18,903 105922 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 14:55:18,904 105923 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 14:55:18,904 107812 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 15:00:45,666 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 15:00:47,469 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 15:02:51,045 123576 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 15:02:51,048 125382 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 15:03:06,065 140399 [1837007962@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 15:03:06,066 140400 [1837007962@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 15:03:06,067 138598 [1101730224@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 15:03:06,069 138600 [1101730224@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 15:03:56,109 190443 [1837007962@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 15:03:56,112 190446 [1837007962@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 15:03:56,114 188645 [1101730224@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 15:03:56,115 190449 [1837007962@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 15:03:56,115 188646 [1101730224@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 15:03:56,118 188649 [1101730224@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 15:03:56,126 188657 [1101730224@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 15:03:56,127 190461 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 15:03:56,127 188658 [1101730224@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 15:03:56,132 190466 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 15:11:35,793 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 15:11:37,911 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 15:11:59,604 23811 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 15:11:59,608 21697 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 15:12:14,626 38833 [1172733546@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 15:12:14,626 38833 [1172733546@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 15:12:14,627 36716 [1192380230@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 15:12:14,628 36717 [1192380230@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 15:13:04,668 88875 [1172733546@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 15:13:04,671 88878 [1172733546@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 15:13:04,672 86761 [1192380230@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 15:13:04,673 88880 [1172733546@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 15:13:04,673 86762 [1192380230@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 15:13:04,676 86765 [1192380230@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 15:13:04,690 86779 [1192380230@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 15:13:04,692 88899 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 15:13:04,692 86781 [1192380230@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 15:13:04,695 88902 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 15:14:29,445 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 15:14:31,162 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 15:15:01,103 29941 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 15:15:01,116 31671 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 15:15:44,986 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 15:15:46,918 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 15:16:01,774 14856 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 15:16:01,778 16792 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 15:16:16,793 31807 [1254032703@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 15:16:16,794 31808 [1254032703@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 15:16:16,795 29877 [1864311781@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 15:16:16,795 29877 [1864311781@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 15:17:06,848 81862 [1254032703@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 15:17:06,852 81866 [1254032703@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 15:17:06,854 79936 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 15:17:06,854 79936 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 15:17:06,856 79938 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 15:17:06,857 81871 [1254032703@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 15:17:06,865 79947 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 15:17:06,867 79949 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 15:17:06,873 81887 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 15:17:06,874 81888 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 16:17:07,255 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 16:17:09,187 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 16:17:44,814 37559 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 16:17:44,814 35627 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 16:17:54,871 47616 [1859093149@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 16:17:54,872 47617 [1859093149@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 16:17:54,885 45698 [956951190@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 16:17:54,885 45698 [956951190@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 16:18:44,885 97630 [1859093149@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 16:18:44,890 97635 [1859093149@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 16:18:44,891 95704 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 16:18:44,892 95705 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 16:18:44,893 95706 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 16:18:44,895 97640 [1859093149@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 16:18:44,905 95718 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 16:18:44,906 95719 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 16:25:39,868 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 16:25:41,413 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 16:26:04,055 24187 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 16:26:04,059 22646 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 16:26:24,090 44222 [1720854532@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 16:26:24,090 44222 [1720854532@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 16:26:24,099 42686 [92361528@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 16:26:24,099 42686 [92361528@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 16:27:49,103 129235 [199020253@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 16:27:49,106 129238 [199020253@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 16:27:49,107 127694 [92361528@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 16:27:49,108 127695 [92361528@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 16:27:49,108 129240 [199020253@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 16:27:49,110 127697 [92361528@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 16:27:49,127 127714 [92361528@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 16:27:49,128 127715 [92361528@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 16:35:52,112 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 16:35:53,861 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 16:36:13,664 19803 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 16:36:13,671 21559 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 16:36:13,718 19857 [904935057@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 16:36:13,721 19860 [904935057@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 16:36:13,745 21633 [956951190@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 16:36:13,746 21634 [956951190@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 16:36:13,748 21636 [1633127083@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 16:36:13,762 21650 [1633127083@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 16:36:13,764 19903 [904935057@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 16:36:13,764 21652 [1633127083@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 16:36:13,768 19907 [904935057@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 16:36:13,770 19909 [904935057@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 16:36:13,777 19916 [904935057@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 16:36:13,778 19917 [904935057@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 16:36:13,779 19918 [904935057@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 16:36:13,797 19936 [904935057@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 16:40:43,787 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 16:40:45,845 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 16:41:07,651 21806 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 16:41:07,652 23865 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 16:41:07,694 21849 [141106670@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 16:41:07,695 21850 [141106670@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 16:41:07,709 23922 [563848768@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 16:41:07,710 23923 [563848768@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 16:41:07,733 23946 [563848768@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 16:41:07,736 23949 [563848768@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 16:41:07,744 23957 [563848768@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 16:41:07,744 21899 [141106670@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 16:41:07,746 21901 [141106670@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 16:41:07,749 21904 [141106670@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 16:41:07,758 21913 [141106670@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 16:41:07,759 21914 [141106670@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 16:41:07,759 21914 [141106670@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 16:41:07,779 21934 [141106670@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 16:45:55,447 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 16:45:57,210 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 16:46:20,773 23563 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 16:46:20,774 25327 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 16:46:20,847 25400 [840529455@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 16:46:20,847 25400 [840529455@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 16:46:20,849 23639 [1347430425@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 16:46:20,850 23640 [1347430425@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 16:46:20,851 23641 [1562645223@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 16:46:20,855 23645 [1562645223@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 16:46:20,857 23647 [1562645223@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 16:46:20,871 25424 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 16:46:20,872 25425 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 16:46:20,874 25427 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 16:46:20,880 25433 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 16:46:20,880 25433 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 16:46:20,881 25434 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 16:46:20,881 23671 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 16:46:20,881 23671 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 16:46:20,882 23672 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 16:46:20,906 23696 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 16:46:20,911 25464 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 17:34:38,984 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 17:34:40,510 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 17:35:53,576 73066 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 17:35:53,583 74599 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 17:35:53,705 73195 [118371797@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 17:35:53,706 73196 [118371797@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 17:35:53,715 74731 [590996305@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 17:35:53,716 74732 [590996305@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 17:35:53,718 74734 [1301353792@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 17:35:53,719 74735 [1301353792@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 17:35:53,719 73209 [118371797@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 17:35:53,720 73210 [118371797@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 17:35:53,720 74736 [1301353792@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 17:35:53,721 73211 [118371797@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 17:35:53,731 73221 [118371797@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 17:35:53,731 73221 [118371797@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 17:35:53,732 73222 [118371797@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 17:35:53,734 74750 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 17:35:53,734 74750 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 17:35:53,734 74750 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 17:35:53,859 73349 [118371797@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 17:35:53,864 74880 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 18:03:18,877 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 18:03:20,757 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 18:04:33,607 74730 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 18:04:33,610 72853 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 18:04:36,639 77762 [2040926578@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 18:04:36,639 77762 [2040926578@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 18:04:36,640 75883 [1971599989@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 18:04:36,643 75886 [1971599989@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 18:04:36,651 77774 [2040926578@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 18:04:36,651 77774 [2040926578@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 18:04:36,652 75895 [162291475@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 18:04:36,652 75895 [162291475@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 18:04:36,653 77776 [2040926578@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 18:04:36,656 75899 [162291475@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 18:04:36,665 75908 [1971599989@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 18:04:36,666 75909 [1971599989@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 18:04:36,667 75910 [1971599989@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 18:04:36,668 77791 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 18:04:36,669 77792 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 18:04:36,669 77792 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 18:04:37,684 76927 [1971599989@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 18:04:37,689 78812 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 18:06:18,550 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 18:06:21,547 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 18:07:03,085 44535 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 18:07:03,086 41539 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 18:07:13,119 51572 [1859093149@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 18:07:13,120 51573 [1859093149@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 18:07:13,120 54570 [1696446139@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 18:07:13,121 54571 [1696446139@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 18:07:13,125 51578 [1491010616@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 18:07:13,125 51578 [1491010616@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 18:07:13,126 54576 [1930362236@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 18:07:13,126 54576 [1930362236@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 18:07:13,127 51580 [1491010616@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 18:07:13,128 54578 [1930362236@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 18:07:13,139 51592 [1491010616@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 18:07:13,140 51593 [1491010616@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 18:07:13,138 54588 [1696446139@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 18:07:13,140 54590 [1696446139@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 18:07:13,140 51593 [1491010616@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 18:07:13,140 54590 [1696446139@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 18:07:23,156 61609 [1491010616@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 18:07:23,158 64608 [1696446139@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 18:12:09,763 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 18:12:11,830 1    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 18:12:38,127 26298 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 18:12:38,128 28365 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 18:12:48,174 38411 [1859093149@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 18:12:48,174 38411 [1859093149@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 18:12:48,175 36346 [412645939@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 18:12:48,175 36346 [412645939@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 18:12:48,177 38414 [1741133836@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 18:12:48,178 38415 [1741133836@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 18:12:48,179 36350 [1393000393@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 18:12:48,180 36351 [1393000393@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 18:12:48,180 38417 [1741133836@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 18:12:48,182 36353 [1393000393@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 18:12:48,188 36359 [472117691@qtp-1525155906-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 18:12:48,189 36360 [472117691@qtp-1525155906-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 18:12:48,190 36361 [472117691@qtp-1525155906-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 18:12:48,192 38429 [1747988071@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 18:12:48,193 38430 [1747988071@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 18:12:48,193 38430 [1747988071@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 18:12:58,212 46383 [472117691@qtp-1525155906-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 18:12:58,212 48449 [1747988071@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 18:13:17,754 67991 [1747988071@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 18:13:17,755 65926 [472117691@qtp-1525155906-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 18:13:27,795 78032 [1859093149@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 18:13:27,795 78032 [1741133836@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 18:13:27,795 75966 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 18:13:27,796 75967 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 18:13:27,795 78032 [1859093149@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 18:13:27,797 75968 [1393000393@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 18:13:27,796 78033 [1741133836@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 18:13:27,798 75969 [1393000393@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 18:13:27,800 75971 [1393000393@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 18:13:27,802 78039 [1741133836@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 18:13:27,816 75987 [1393000393@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 18:13:27,816 75987 [1393000393@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 18:13:27,817 75988 [1393000393@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 18:13:27,818 78055 [1741133836@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 18:13:27,818 78055 [1741133836@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 18:13:27,819 78056 [1741133836@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 18:13:37,831 88068 [1741133836@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 18:13:37,833 86004 [1393000393@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 19:04:35,925 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:04:37,457 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:04:56,196 20271 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 19:04:56,201 18744 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 19:04:56,241 20316 [956951190@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 19:04:56,241 18784 [1908393212@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 19:04:56,241 20316 [956951190@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 19:04:56,242 18785 [1792263773@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 19:04:56,242 18785 [1908393212@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 19:04:56,243 18786 [1792263773@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 19:04:56,246 18789 [1792263773@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 19:04:56,246 18789 [1908393212@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 19:04:56,247 20322 [1993012929@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 19:04:56,249 20324 [1993012929@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 19:04:56,251 20326 [1993012929@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 19:04:56,262 20337 [1583486197@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 19:04:56,262 20337 [1583486197@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 19:04:56,263 20338 [1583486197@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 19:04:56,263 18806 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 19:04:56,263 18806 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 19:04:56,264 18807 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 19:04:56,286 18829 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 19:04:56,297 20372 [1583486197@qtp-930501550-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 19:21:14,198 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:21:16,135 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:21:57,566 41431 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 19:21:57,567 43369 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 19:21:57,608 41473 [500470343@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 19:21:57,608 41473 [500470343@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 19:21:57,621 43423 [17131806@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 19:21:57,622 43424 [17131806@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 19:21:57,624 43426 [1482981398@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 19:21:57,624 43426 [1482981398@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 19:21:57,625 41490 [500470343@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 19:21:57,625 41490 [500470343@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 19:21:57,626 43428 [1482981398@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 19:21:57,627 41492 [500470343@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 19:21:57,642 41507 [500470343@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 19:21:57,642 41507 [500470343@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 19:21:57,642 43444 [1482981398@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 19:21:57,642 43444 [1482981398@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 19:21:57,642 41507 [500470343@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 19:21:57,642 43444 [1482981398@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 19:21:57,661 41526 [500470343@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 19:21:57,666 43468 [1482981398@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 19:27:14,184 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:27:16,143 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:27:40,604 26420 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 19:27:40,605 24462 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 19:27:40,644 24501 [1301353792@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 19:27:40,645 26461 [546579839@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 19:27:40,645 24502 [1301353792@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 19:27:40,646 24503 [1184537445@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 19:27:40,647 24504 [1184537445@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 19:27:40,647 26463 [546579839@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 19:27:40,648 24505 [1184537445@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 19:27:40,649 26465 [1491010616@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 19:27:40,653 26469 [1491010616@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 19:27:40,655 26471 [1491010616@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 19:27:40,669 24526 [1184537445@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 19:27:40,670 24527 [1184537445@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 19:27:40,671 26487 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 19:27:40,671 24528 [1184537445@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 19:27:40,671 26487 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 19:27:40,672 26488 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 19:27:40,693 24550 [1184537445@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 19:27:40,699 26515 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 19:44:29,227 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:44:31,107 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:44:47,026 15919 [1053829969@qtp-963633396-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 19:44:47,027 17800 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 19:46:00,390 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:46:01,908 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:46:13,092 11184 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 19:46:13,096 12706 [1053829969@qtp-963633396-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 19:47:02,784 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:47:04,450 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:47:16,667 12217 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 19:47:16,669 13885 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 19:47:16,704 13920 [1343990093@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 19:47:16,706 13922 [1343990093@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 19:47:16,709 12259 [1123127663@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 19:47:16,711 12261 [1123127663@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 19:47:16,711 13927 [1562645223@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 19:47:16,711 13927 [1562645223@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 19:47:16,713 13929 [1562645223@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 19:47:16,714 12264 [590996305@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 19:47:16,716 12266 [590996305@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 19:47:16,718 12268 [590996305@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 19:47:16,725 12275 [1562645223@qtp-1525155906-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 19:47:16,725 12275 [1562645223@qtp-1525155906-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 19:47:16,726 13942 [1343990093@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 19:47:16,727 13943 [1343990093@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 19:47:16,727 12277 [1562645223@qtp-1525155906-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 19:47:16,729 13945 [1343990093@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 19:47:16,748 13964 [1343990093@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 19:47:16,764 12314 [1562645223@qtp-1525155906-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 19:56:58,685 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:57:00,296 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 19:57:14,426 15741 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 19:57:14,427 14131 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 19:57:14,464 15779 [1864311781@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 19:57:14,465 15780 [1864311781@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 19:57:14,469 14173 [1432950766@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 19:57:14,469 14173 [1432950766@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 19:57:14,471 14175 [1908393212@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 19:57:14,471 14175 [1908393212@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 19:57:14,473 15788 [1879721096@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 19:57:14,475 14179 [1908393212@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 19:57:14,482 15797 [1879721096@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 19:57:14,484 15799 [1879721096@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 19:57:14,491 15806 [1879721096@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 19:57:14,491 15806 [1879721096@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 19:57:14,492 15807 [1879721096@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 19:57:14,496 14200 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 19:57:14,496 14200 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 19:57:14,497 14201 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 19:57:14,522 15837 [1879721096@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 19:57:14,533 14237 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 20:00:37,048 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 20:00:38,745 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 20:00:52,426 15378 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 20:00:52,426 13681 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 20:00:52,479 15431 [1123127663@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 20:00:52,480 15432 [1123127663@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 20:00:52,495 13750 [1274367071@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 20:00:52,497 13752 [1274367071@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 20:00:52,499 15451 [1123127663@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 20:00:52,500 15452 [1123127663@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 20:00:52,502 15454 [1123127663@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 20:00:52,506 13761 [533262289@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 20:00:52,507 13762 [533262289@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 20:00:52,509 13764 [533262289@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 20:00:52,520 15472 [1123127663@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 20:00:52,520 15472 [1123127663@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 20:00:52,521 13776 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 20:00:52,521 15473 [1123127663@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 20:00:52,521 13776 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 20:00:52,522 13777 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 20:00:52,550 15502 [1123127663@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 20:00:52,555 13810 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 20:10:27,727 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 20:10:30,438 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+09 20:10:45,019 14581 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+09 20:10:45,023 17296 [1053829969@qtp-963633396-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+09 20:10:45,095 17368 [648734830@qtp-963633396-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 20:10:45,095 17368 [648734830@qtp-963633396-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 20:10:45,096 17369 [1879721096@qtp-963633396-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+09 20:10:45,097 17370 [1879721096@qtp-963633396-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+09 20:10:45,097 14659 [1741133836@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 20:10:45,098 17371 [1879721096@qtp-963633396-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+09 20:10:45,099 14661 [1741133836@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 20:10:45,105 14667 [904723975@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+09 20:10:45,106 14668 [904723975@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+09 20:10:45,109 14671 [904723975@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+09 20:10:45,117 14679 [904723975@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+09 20:10:45,117 14679 [904723975@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 20:10:45,118 17391 [1053829969@qtp-963633396-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+09 20:10:45,118 17391 [1053829969@qtp-963633396-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+09 20:10:45,118 14680 [904723975@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+09 20:10:45,119 17392 [1053829969@qtp-963633396-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+09 20:10:45,146 14708 [904723975@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+09 20:10:45,152 17425 [1053829969@qtp-963633396-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+10 09:19:34,234 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+10 09:20:50,376 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+10 09:21:25,014 110780 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+10 09:21:25,014 34638 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+10 09:21:25,106 110872 [1654792719@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+10 09:21:25,110 110876 [1654792719@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+10 09:21:25,110 110876 [1511627065@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+10 09:21:25,110 110876 [1511627065@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+10 09:21:25,113 110879 [1511627065@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+10 09:21:25,133 34757 [1123127663@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+10 09:21:25,134 34758 [1123127663@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+10 09:21:25,136 34760 [904935057@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+10 09:21:25,136 34760 [904935057@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+10 09:21:25,138 34762 [904935057@qtp-1525155906-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+10 09:21:25,143 34767 [2137222734@qtp-1525155906-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+10 09:21:25,143 34767 [2137222734@qtp-1525155906-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+10 09:21:25,144 34768 [2137222734@qtp-1525155906-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+10 09:21:25,145 110911 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+10 09:21:25,145 110911 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+10 09:21:25,147 110913 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+10 09:21:25,203 34827 [2137222734@qtp-1525155906-4] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+10 09:21:25,206 110972 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+10 09:24:59,373 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+10 09:25:01,935 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+10 09:25:22,263 22890 [963633396@qtp-1525155906-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+10 09:25:22,263 20328 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+10 09:25:22,327 22954 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+10 09:25:22,328 22955 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+10 09:25:22,344 20409 [1014593217@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+10 09:25:22,345 20410 [1014593217@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+10 09:25:22,346 20411 [533262289@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+10 09:25:22,347 20412 [533262289@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+10 09:25:22,348 22975 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+10 09:25:22,349 20414 [533262289@qtp-930501550-3] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+10 09:25:22,349 22976 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+10 09:25:22,351 22978 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+10 09:25:22,357 20422 [1014593217@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+10 09:25:22,357 20422 [1014593217@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+10 09:25:22,358 20423 [1014593217@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+10 09:25:22,359 22986 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+10 09:25:22,359 22986 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+10 09:25:22,360 22987 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+10 09:25:22,391 20456 [1014593217@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+10 09:25:22,392 23019 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+10 09:25:33,714 34341 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runmap
+10 09:25:33,715 31780 [1014593217@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runmap
+10 09:25:33,747 31812 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+10 09:25:33,749 31814 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+10 09:25:33,751 34378 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+10 09:25:33,751 31816 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /pushdata
+10 09:25:33,752 34379 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+10 09:25:33,757 31822 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Writing into the sync_buffer
+10 09:25:33,759 31824 [1612304545@qtp-930501550-0] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 done spooling in data
+10 09:25:33,760 34387 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /pushdata
+10 09:25:33,761 34388 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Writing into the sync_buffer
+10 09:25:33,765 34392 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 done spooling in data
+10 09:25:33,776 34403 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 GOT Post : /runreduce
+10 09:25:33,776 34403 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+10 09:25:33,777 31842 [1014593217@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 GOT Post : /runreduce
+10 09:25:33,777 31842 [1014593217@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+10 09:25:33,778 31843 [1014593217@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 Got reduce!
+10 09:25:33,779 34406 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 Got reduce!
+10 09:25:33,809 34436 [1014593217@qtp-1525155906-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8002 startin reduce
+10 09:25:33,814 31879 [1014593217@qtp-930501550-2] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - Port:8001 startin reduce
+10 09:29:57,435 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
+10 09:33:18,855 0    [main] DEBUG edu.upenn.cis455.mapreduce.worker.WorkerServlet  - <<_ NEW RUN ___________________________________________>>
